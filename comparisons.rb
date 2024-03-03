@@ -61,20 +61,27 @@ puts "Is number_students less than or equal to 21?", number_students <= 21
 
 puts 4 < 9
 #YOU DO: Explain.
+# This line is comparing whether 4 is less than 9 and will print out "true" because 4 is less than 9 
 
 books = 3
 puts 4 < books
 # YOU DO: Explain.
+# This code sets the integer "books" to qual 3. It then compares whether 4 is less than what books was defined as, which is 3.
+# Therefore it will print out "false" because 4 is not less than 3
 
 friends = 6
 siblings = 2
 puts friends > siblings
 # YOU DO: Explain.
+# This code sets the integers "friends" to 6 and "siblings" to 2. It then compares if the value of "friends" is greater than the value of "siblings".
+# This will print out "true" because 6 is greater than 2
 
 attendees = 9
 meals = 8
 puts attendees != meals
 # YOU DO: Explain.
+# This code sets the integers "attendees" to 9 and "meals" to 8. It then compares if the value of "attendees" is not equal to the value of "meals".
+# This will print "true" because 9 is not equal to 8
 
 
 #-------------------
