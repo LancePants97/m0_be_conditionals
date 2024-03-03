@@ -104,16 +104,18 @@ age = 1
 
 # YOU DO:
 # Determine if the dog loves to play and loves treats
+puts "Does the dog love to play and love treats?", loves_to_play && loves_treats
 
 
 # Determine if the dog loves to play and loves the dog park
-
+puts "Does the dog love to play and love the dog park?", loves_to_play && loves_dog_park
 
 # Determine if the dog loves to play or loves the dog park
-
+puts "Does the dog love to play or love the dog park?", loves_to_play || loves_dog_park
 
 # Determine if the dog loves to play and is a puppy
 # Assume that a dog is a puppy if it is less than 2 years old.
+puts "Does the dog love to play and is the dog a puppy?", loves_to_play && age < 2
 
 # What did your final line of code evaluate to? Why do you think that is? Explain.
-# ANSWER:
+# ANSWER: My last line of code returned "true". I was expecting this because the loves_to_play is set to "true" and because the integer "age" is set to 1. Thus making the puppy under 2 years old.
