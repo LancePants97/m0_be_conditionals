@@ -1,5 +1,5 @@
 # Self Evaluation
 
-1. When is it useful to use a `conditional` in your code?
-1. If you could do this assignment over, what would you do differently?
-1. What about your thinking, learning, or work today brought you the most satisfaction? Why?
+1. When is it useful to use a `conditional` in your code? It is useful to use a conditional statement in your code when you are trying to determine if something is true or false. It is also used to set "rules". For instance, you would use a conditional to run/ a part of your code based on if something is true or false or if certain values are equal to each other.
+1. If you could do this assignment over, what would you do differently? If I was to do this assignment again differently, I would experiment with different way of laying out the code to get to the same answers. There is usually more than one way to write something, and I want to familiarize myself with all the different options so that I can determine which would be the most efficient way to solve future coding problems.
+1. What about your thinking, learning, or work today brought you the most satisfaction? Why? Writing a code that WORKS was the most satisfaction I got out of this. Initially, I kept only putting one equals sign instead of 2 in the "medium.rb" assignment and I could not figure out why my code wasn't compiling properly. Going through my notes and finding my silly mistake and correcting it was extremely satisfying and made me feel like I am actually catching on and getting familiar with this whole new process of writing code.
